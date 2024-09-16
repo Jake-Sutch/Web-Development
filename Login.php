@@ -1,4 +1,4 @@
-<!--Jake-->
+<!-- Jake -->
 <?php
 session_start();
 
